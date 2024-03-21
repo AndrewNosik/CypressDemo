@@ -1,0 +1,29 @@
+{
+  "env": {
+    "baseUrl": "https://petstore.swagger.io",
+    "env": "main",
+    "grepFilterSpecs": true,
+    "API_URL": "https://petstore.swagger.io/v2",
+    "users": [
+      {
+        "role": "",
+        "email": "",
+        "phone": "",
+        "password": "",
+        "id": "",
+        "name": ""
+      }
+    ],
+    "user": {
+      "role": "user",
+      "username": "1",
+      "password": "1"
+    },
+    "db_credentials": {
+      "notes": "",
+      "host": "127.0.0.1",
+      "user": "",
+      "password": ""
+    }
+  }
+}
